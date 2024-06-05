@@ -34,9 +34,6 @@ function Portfolio() {
         <div className="container">
           <div className="header__content">
             <div className="header__logo-container">
-              <Link to="/" className="navbar-brand">
-                Me
-              </Link>
             </div>
           </div>
 
