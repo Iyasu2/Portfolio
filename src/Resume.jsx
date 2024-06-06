@@ -1,5 +1,4 @@
 import React, { useEffect } from "react";
-import CVIyasu_AsnakePDF from "./assets/Iyasu_Asnake_CV.pdf";
 import CVIyasu_Asnake1 from "./assets/image.jpg";
 import CVIyasu_AsnakePDF from "./assets/image.pdf";
 import "./Resume.css"; // Import your CSS file
