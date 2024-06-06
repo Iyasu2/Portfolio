@@ -23,7 +23,6 @@ const Resume = () => {
       </div>
       <div>
         <img src={CVIyasu_Asnake1} alt="Resume" className="resume-image" />
-        <img src={CVIyasu_Asnake2} alt="Resume" className="resume-image" />
       </div>
     </div>
   );
