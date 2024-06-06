@@ -9,10 +9,9 @@ import {
   faLinkedin,
 } from "@fortawesome/free-brands-svg-icons";
 import profileImage from "./assets/profile_iya.jpg";
-import comingSoon from "./assets/comingSoon.jpg";
 import egovImage from "./assets/egovImage.png";
-import CVIyasu_Asnake from "./assets/Iyasu_Asnake_CV.jpg";
-import CVIyasu_AsnakePDF from "./assets/Iyasu_Asnake_CV.pdf";
+import CVIyasu_Asnake from "./assets/image.jpg";
+import CVIyasu_AsnakePDF from "./assets/image.pdf";
 import Gojo from "./assets/Gojo.png";
 import "./Portfolio.css";
 
@@ -34,6 +33,9 @@ function Portfolio() {
         <div className="container">
           <div className="header__content">
             <div className="header__logo-container">
+              <Link to="/" className="navbar-brand">
+                Me
+              </Link>
             </div>
           </div>
 
